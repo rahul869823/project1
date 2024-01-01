@@ -1,0 +1,60 @@
+AI tool for ppt - chatgpt
+prompt 
+1. tell me all details you know about great indian festival
+2. expand upon all the points that you have given me
+3. act as a marketing manager 
+4. look at the screenshot
+
+Gamma.app = to create a stunning presentation from scratch using just text
+
+go to it ---singin--copy text from ghatgpt--paste it in gamma.app as text slide 
+
+
+## for communication to explain in ppt presentation, interview, etc
+
+AI tool = app.yoodli.ai
+
+## to perform any kind of research, pdf read and analyse, project, learning
+
+AI Tool = chatwithpdf.ai
+
+## learn code in any language and get faster and make your code error free
+
+AI Tool = googlebard.ai
+
+## to debugg any code 
+
+AI tool = debugcode.ai
+
+## to become an expert of anything, build your own personal brand and faster
+
+AI Tool = link.jatanshah.in/assistant....Merlin
+
+## remaimber excel formulas, analyse your data, create report, intrgrate chatgpt inside excel.
+
+AI Tool = AutomateX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

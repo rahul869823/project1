@@ -1,0 +1,3 @@
+java is old language
+scala is also a old language 
+python is modern language and used it mostly

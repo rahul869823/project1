@@ -1,0 +1,7 @@
+eid,ename,did,sal
+1,karan,10,20000
+2,rohan,10,15000
+3,Rani,20,35000
+4,Kisan,10,45000
+5,Geet,20,25000
+6,Neel,20,10000

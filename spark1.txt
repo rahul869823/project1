@@ -1,0 +1,6 @@
+cid|cname|city
+1|Rohan|Pune
+2|Rajesh|Pune
+3|Rakesh|Mumbai
+4|Rock|Pune
+5|Roha|Mumbai

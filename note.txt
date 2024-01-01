@@ -1,0 +1,3 @@
+java is easy
+scala is easy
+python is easy
