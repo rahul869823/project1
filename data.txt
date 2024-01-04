@@ -1,4 +1,3 @@
-l3=['python', 'scala', 'hadoop']
-this is sample edit 
-need to check its working condition 
+this is sample file need to review it once 
+content written is for varification
 
